@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user_name/coding/vitaliy/8/2/sort.c
+transportation.h
+/home/user_name/coding/vitaliy/8/2/transportation.h
+
+/home/user_name/coding/vitaliy/8/2/transportation.h
+stdio.h
+-
+stdlib.h
+-
+errno.h
+-
+string.h
+-
+
